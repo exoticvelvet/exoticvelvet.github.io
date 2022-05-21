@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "All About Reading!"
+date:   2022-05-21 10:23:55 +0100
+categories: reading 
+---
+This is a simple blog post to document interesting topics that I read and watch. Topics include algorithms, distributed systems, may or may not have machine learning and artificial intelligence. And most likely SciFis! 
